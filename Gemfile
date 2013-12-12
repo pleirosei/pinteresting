@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 1.2'
 # Bootstrap
 gem 'bootstrap-sass', '~> 3.0.2.0'
 
+# Devise
+gem 'devise', '~> 3.2.2'
 
 group :development, :test do
 	gem 'sqlite3'
